@@ -28,3 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Angular Tutorial - 4 - Components 
 https://www.youtube.com/watch?v=16rQyEQtpyQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=4
+
+# Angular Tutorial - 5 - Interpolation
+https://www.youtube.com/watch?v=2a6OfacW_-I
